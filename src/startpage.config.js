@@ -6,28 +6,6 @@ let config = {
     welcome: 'Welcome to <d color="#00f501">186526.xyz</d> terminal',
     actions: [],
   },
-  friends: [
-    {
-      name: 'Skrshadow',
-      description: '是红雨 昆卡昆卡斯哈斯哈',
-      url: 'https://blog.skrshadown.cn',
-    },
-    {
-      name: 'Radium-Bit',
-      description: '在B站py友链的朋友（',
-      url: 'https://radium-bit.github.io/',
-    },
-    {
-      name: `JimmyQin's Blog`,
-      description: '是大佬的说',
-      url: 'https://www.jimmyqin.cn/',
-    },
-    {
-      name: 'Lapis Apple的回收站',
-      description: '又是大佬的说',
-      url: 'https://laple.top/',
-    },
-  ],
   neofetch: [
     {
       name: 'describe',
