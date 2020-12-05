@@ -85,8 +85,6 @@ var actions = [
         "Build with <d href='https://github.com/zhw2590582/term-web' color='yellow'>term-web</d> & <d href='https://snowpack.dev' color='yellow'>snowpack</d> & bug 😥\n";
       a +=
         "OpenSource with MIT Licence at <d href='https://github.com/186526/startpage_me'>186526/startpage_me</d>\n";
-      a +=
-        "本网站由 <d href='https://console.upyun.com/register/?invite=S1_tWzl7P' color='yellow'> 又拍云 </d> 提供CDN/云存储支持";
       return a;
     },
   },
