@@ -1,54 +1,58 @@
 let config = {
   terminal: {
-    title: `Terminal at i@186526.xyz`,
+    title: `Terminal at yuu@yuumoe.com`,
     user: 'i',
-    hostname: '186526.xyz',
-    welcome: 'Welcome to <d color="#00f501">186526.xyz</d> terminal',
+    hostname: 'Hamani Yuu',
+    welcome: 'Welcome to <d color="#00f501">yuu@yuumoe.com</d> terminal',
     actions: [],
   },
+  friends: [
+    {
+      name: '洞洞圈',
+      description: '我的 <d del>技术</d>博客x',
+      url: 'https://00o.pw',
+    },
+    {
+      name: '羽萌',
+      description: '我的 生活博客',
+      url: 'https://yuummoe.com/',
+    },
+    {
+      name: `氢橙社区`,
+      description: '科技社区',
+      url: 'https://bbs.rmvsm.cn',
+    },
+    {
+      name: '樱花论坛',
+      description: '科技论坛',
+      url: 'https://sakura-bbs.top/',
+    },
+	{
+      name: '可爱的小和酱',
+      description: '风云出我辈，一入江湖岁月催。',
+      url: 'https://blog.dmcimi.top/',
+    },
+  ],
   neofetch: [
     {
       name: 'describe',
-      value: '啥都不会的屑',
+      value: '爱幻想的少年',
     },
     {
       name: 'UseOS',
-      value: 'Arch Linux x86_64',
+      value: 'Centos Linux x86_64',
     },
     {
       name: 'Blog',
-      value: '<d href="https://blogging.186526.xyz">blogging.186526.xyz</d>',
-    },
-    {
-      name: 'Telegram',
-      value: '<d href="https://t.me/real186526">@real186526</d>',
+      value: '<d href="https://00o.pw">00o.pw</d>',
     },
     {
       name: 'Github',
-      value: '<d href="https://github.com/186526">@186526</d>',
+      value: '<d href="https://github.com/issacsqian">@issacsqian</d>',
     },
     {
       name: 'email',
-      value: '<d href="mailto:i@186526.xyz">i@186526.xyz</d>',
-    },
-    {
-      name: 'Coolapk',
-      value:
-        '<d href="https://www.coolapk.com/u/848581.">https://www.coolapk.com/u/848581.</d>',
-    },
-    {
-      name: 'GPG [i@186526.xyz]',
-      value:
-        '<d href="https://i.186526.xyz/pgp_keys.asc">https://i.186526.xyz/pgp_keys.asc</d>',
-    },
-    {
-      name: 'S/MIME Key [i@186526.xyz]',
-      value:
-        '<d href="https://i.186526.xyz/i@186526.xyz.pem">https://i.186526.xyz/i@186526.xyz.pem</d>',
-    },
-    {
-      name: 'Shell',
-      value: '<d del>nonsh 114.514</d>',
+      value: '<d href="mailto:yuu@yuumoe.com">yuu@yuumoe.com</d>',
     },
   ],
   ga: {
