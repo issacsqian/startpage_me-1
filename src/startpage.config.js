@@ -15,7 +15,7 @@ let config = {
     {
       name: '羽萌',
       description: '我的 生活博客',
-      url: 'https://yuummoe.com/',
+      url: 'https://yuumoe.com/',
     },
     {
       name: `氢橙社区`,
